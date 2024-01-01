@@ -1,5 +1,7 @@
 # Flutter Basics
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
+
 ---
 
 #### This repo contains small and easy to understand code snippets for some of the basic flutter widgets.
