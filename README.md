@@ -20,10 +20,3 @@
 
 - For more info head on over to [flutter.dev](https://flutter.dev/).
 
-#### Didn't understand something
-
-- All the code is mostly self-explanatory but still if you have any doubt check this [channel](https://www.youtube.com/channel/UCgofYEUiBiD5lybABz5Kyag).
-
----
-
-Note: Some examples are based on external packages and Firebase. So they will not work straight out of the box.
